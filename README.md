@@ -30,6 +30,6 @@ python3 main.py
 ```
 
 It prints the ranked candidates and writes exactly the winning line to
-`/output/entry.txt` (116 characters, one line, within the 1–200 gate).
+`/output/entry.txt` (115 characters, one line, within the 1–200 gate).
 
 Referral code: `f2pdfak6`
